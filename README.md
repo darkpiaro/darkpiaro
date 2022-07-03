@@ -1,8 +1,15 @@
+<img src="https://github.com/darkpiaro/darkpiaro/blob/main/DarkPiaroGitHubCoverPage.PNG?raw=true" alt="My first darkpiaro git hub cover page picture"> 
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-🖥 BackEnd .Net 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 </br>
-💼 Core SAP Development in PTT Digital Solutions Company Limited </br>
-🎓 Graduated with a master's degree from Department of Information Technology King Mongkut's University of Technology Thonburi </br>
-🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 </br>
+🖥 BackEnd .Net 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+
+💼 Core SAP Development in PTT Digital Solutions Company Limited
+
+🎓 Graduated with a master's degree from Department of Information Technology King Mongkut's University of Technology Thonburi
+
+🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋
+
+
 ## 🚀💻 My TechStack
   
 #### Languages & Technology
